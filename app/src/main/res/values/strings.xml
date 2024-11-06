@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">PetKu</string>
+    <string name="splashscreen2">Forget when your pet's\nlast vaccination was?</string>
+    <string name="splashscreen2_2"> vaccination</string>
+    <string name="skip">Skip</string>
 </resources>
