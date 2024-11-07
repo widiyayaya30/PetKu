@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">PetKu</string>
+    <string name="splash_message">Keep your pet healthy and happy!</string>
+    <string name="back">Back</string>
+    <string name="image_button_description">Deskripsi tombol</string>
+    <string name="play_button_description">Play</string>
+    <string name="skip">Skip</string>
+    <string name="reminder_feature_message">With Petku's reminder feature, you'll never miss a shot</string>
 </resources>
